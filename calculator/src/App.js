@@ -41,7 +41,7 @@ const App = () => {
     return digits;
   }
 
-  // When pressees equals
+  // When pressees equals two added values will be equal
   const calculateSum = () => {
     setCalc(eval(calc).toString());
   }
