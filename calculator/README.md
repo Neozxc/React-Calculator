@@ -1,1 +1,1 @@
-Empty readme :D
+More information on main page 🙂
