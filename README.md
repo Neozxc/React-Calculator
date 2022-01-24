@@ -9,3 +9,9 @@
 
 <p align="center">Was used one custom npm package to make headlines not pop out.<p/>
 <p align="center">NPM was used React-TextFit.<p/>
+
+<p align="center">
+  > <a align="center" href="https://reactcalculator2022.netlify.app/" title="Issues">Check out Live server Here!</a> <
+</p>
+
+------
